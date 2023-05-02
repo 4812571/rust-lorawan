@@ -1,0 +1,5 @@
+project: rust-lorawan
+target: parse
+duration: 600
+cmds:
+    - cmd: /fuzzers/fuzz_parse
